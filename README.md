@@ -16,7 +16,6 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 ### 1. Crear el proyecto
 
 Para crear el proyecto, ejecuta los siguientes comandos en tu terminal:
-
 ```
     npx create-vite buscador-peliculas-react
     cd buscador-peliculas-react
