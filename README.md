@@ -12,7 +12,6 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 -   npm (administrador de paquetes de Node.js)
 
 ## Pasos
-
 ### 1. Crear el proyecto
 
 Para crear el proyecto, ejecuta los siguientes comandos en tu terminal:
